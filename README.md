@@ -112,8 +112,6 @@ hft-anomaly-detector/
 [Live dashboard link to be added upon completion]  
 [Demo GIF/video to be added]
 
-## Contact
-Reach out via GitHub Issues or [your email] for questions or collaboration.
 
 ---
 *In-progress project built for quant finance and systems engineering.*
