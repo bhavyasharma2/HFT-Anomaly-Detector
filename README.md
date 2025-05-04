@@ -95,9 +95,8 @@ hft-anomaly-detector/
 - Configured via `.github/workflows/ci-cd.yaml`.
 
 ## Current Status
-- **Completed**: ETL pipeline, C++ LOB simulator, basic anomaly detection.
-- **In Progress**: GenAI summarization, Streamlit dashboard, full CI/CD integration.
-- **Next Steps**: Deploy dashboard, integrate GenAI with RAG, add real-time data support.
+- **In Progress**:  ETL pipeline, C++ LOB simulator, basic anomaly detection. 
+- **Next Steps**: GenAI summarization, Streamlit dashboard, full CI/CD integration, deploy dashboard, integrate GenAI with RAG, add real-time data support.
 
 ## Design Choices
 - **Parquet**: Efficient columnar storage for tick data.
@@ -108,7 +107,6 @@ hft-anomaly-detector/
 ## Future Improvements
 - Integrate real-time data from Polygon.io or Alpaca APIs.
 - Scale the pipeline with `Dask` or Kafka.
-- Add RAG for GenAI using microstructure literature.
 
 ## Demo
 [Live dashboard link to be added upon completion]  
